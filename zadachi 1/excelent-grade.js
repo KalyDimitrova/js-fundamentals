@@ -7,4 +7,4 @@ function solve(grade) {
 }
 
 solve(5.5);
-solve(5.49)
+solve(5.49);
